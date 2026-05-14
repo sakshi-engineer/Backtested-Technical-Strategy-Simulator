@@ -1,0 +1,1 @@
+# Backtested-Technical-Strategy-Simulator
